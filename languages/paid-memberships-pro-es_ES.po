@@ -8723,7 +8723,7 @@ msgstr ""
 #: adminpages/pagesettings.php:436
 #: adminpages/pagesettings.php:495
 msgid "view page"
-msgstr ""
+msgstr "ver página"
 
 #: adminpages/pagesettings.php:199
 #: adminpages/pagesettings.php:221
