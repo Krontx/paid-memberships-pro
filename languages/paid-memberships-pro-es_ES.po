@@ -1190,7 +1190,7 @@ msgstr "Pasarela de pagos &amp; SSL"
 #: classes/class-pmpro-orders-list-table.php:936
 #: classes/class-pmpro-orders-list-table.php:939
 msgid "Email"
-msgstr "Email"
+msgstr "Correo"
 
 #: adminpages/admin_header.php:132
 #: adminpages/admin_header.php:277
@@ -7007,7 +7007,7 @@ msgstr ""
 #: includes/adminpages.php:161
 #: adminpages/admin_header.php:235
 msgid "Dashboard"
-msgstr ""
+msgstr "Panel"
 
 #: adminpages/admin_header.php:226
 #: includes/adminpages.php:52
@@ -7029,7 +7029,7 @@ msgstr ""
 #: includes/adminpages.php:173
 #: adminpages/admin_header.php:239
 msgid "Members"
-msgstr ""
+msgstr "Miembros"
 
 #: adminpages/admin_header.php:238
 #: includes/adminpages.php:55
@@ -7349,7 +7349,7 @@ msgstr ""
 
 #: adminpages/dashboard.php:115
 msgid "View Membership Levels"
-msgstr ""
+msgstr "Ver tipos de membresía"
 
 #: adminpages/dashboard.php:123
 msgid "Generate Membership Pages"
@@ -7357,17 +7357,17 @@ msgstr ""
 
 #: adminpages/dashboard.php:125
 msgid "Manage Membership Pages"
-msgstr ""
+msgstr "Manejar páginas de miembros"
 
 #: adminpages/dashboard.php:133
 #: adminpages/dashboard.php:135
 msgid "Configure Payment Settings"
-msgstr ""
+msgstr "Configurar ajustes de pagos"
 
 #: adminpages/dashboard.php:143
 #: adminpages/dashboard.php:149
 msgid "Confirm Email Settings"
-msgstr ""
+msgstr "Confirmar configuraciones de correo"
 
 #: adminpages/dashboard.php:147
 #: adminpages/dashboard.php:151
@@ -7952,32 +7952,32 @@ msgstr ""
 #: adminpages/emailtemplates.php:87
 #: adminpages/emailtemplates.php:85
 msgid "Save Template and Send Email"
-msgstr ""
+msgstr "Guardar plantilla y enviar correo"
 
 #: adminpages/emailtemplates.php:92
 #: adminpages/emailtemplates.php:90
 msgid "Your current membership will be used for any membership level data."
-msgstr ""
+msgstr "Su membresía actual se utilizará para cualquier dato de nivel de membresía."
 
 #: adminpages/emailtemplates.php:101
 #: adminpages/emailtemplates.php:99
 msgid "Save Template"
-msgstr ""
+msgstr "Guardar plantilla"
 
 #: adminpages/emailtemplates.php:104
 #: adminpages/emailtemplates.php:102
 msgid "Reset Template"
-msgstr ""
+msgstr "Restablecer plantilla"
 
 #: adminpages/emailtemplates.php:114
 #: adminpages/emailtemplates.php:112
 msgid "Variable Reference"
-msgstr ""
+msgstr "Referencia variable"
 
 #: adminpages/emailtemplates.php:116
 #: adminpages/emailtemplates.php:114
 msgid "Use the placeholder variables below to customize your member and admin emails with specific user or membership data."
-msgstr ""
+msgstr "Utilice las variables de marcador de posición a continuación para personalizar los correos electrónicos de sus miembros y administradores con datos específicos de usuario o membresía."
 
 #: adminpages/emailtemplates.php:120
 #: adminpages/emailtemplates.php:116
@@ -9368,7 +9368,7 @@ msgstr ""
 #: classes/class-pmpro-members-list-table.php:669
 #: classes/class-pmpro-members-list-table.php:670
 msgid "Cancelled Members"
-msgstr ""
+msgstr "Membresías canceladas"
 
 #: classes/class-pmpro-members-list-table.php:236
 #: classes/class-pmpro-members-list-table.php:636
@@ -9378,7 +9378,7 @@ msgstr ""
 #: classes/class-pmpro-members-list-table.php:670
 #: classes/class-pmpro-members-list-table.php:671
 msgid "Expired Members"
-msgstr ""
+msgstr "Membresías expiradas"
 
 #: classes/class-pmpro-members-list-table.php:237
 #: classes/class-pmpro-members-list-table.php:637
@@ -9388,7 +9388,7 @@ msgstr ""
 #: classes/class-pmpro-members-list-table.php:671
 #: classes/class-pmpro-members-list-table.php:672
 msgid "Old Members"
-msgstr ""
+msgstr "Usuarios antiguos"
 
 #: classes/class-pmpro-members-list-table.php:542
 #: shortcodes/pmpro_account.php:145
@@ -9429,7 +9429,7 @@ msgstr ""
 #: classes/class.memberorder.php:1622
 #: classes/class.memberorder.php:1631
 msgid "User Display Name"
-msgstr ""
+msgstr "Nombre para mostrar"
 
 #: classes/class.memberorder.php:968
 #: classes/class.memberorder.php:1010
@@ -12864,7 +12864,7 @@ msgstr ""
 
 #: includes/email-templates.php:13
 msgid "Default Email"
-msgstr ""
+msgstr "Correo por defecto"
 
 #: includes/email-templates.php:14
 msgid "!!body!!"
@@ -17759,7 +17759,7 @@ msgstr ""
 
 #: adminpages/dashboard.php:142
 msgid "Manage User Fields"
-msgstr ""
+msgstr "Editar campos de usuario"
 
 #: adminpages/functions.php:446
 #: adminpages/functions.php:458
